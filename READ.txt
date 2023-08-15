@@ -1,0 +1,5 @@
+Hasło do wszystkich kont: password
+Cv w pliku: job-board\storage\app\private\cvs
+---------------------------------------------
+Password to all accounts: password
+Cv file: job-board\storage\app\private\cvs
